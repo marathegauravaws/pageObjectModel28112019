@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Username and Password Entry is in process]]>
+    </line>
+    <line>
+      <![CDATA[Username and Password Entry done]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to New Customer]]>
+    </line>
+    <line>
+      <![CDATA[Add New Customer Page Opened]]>
+    </line>
+    <line>
+      <![CDATA[Entering all valid details and creating new Customer]]>
+    </line>
+    <line>
+      <![CDATA[New Customer Creation Done]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2019-08-22T12:20:20Z" name="Default suite" finished-at="2019-08-22T12:20:55Z" duration-ms="34586">
+    <groups>
+    </groups>
+    <test started-at="2019-08-22T12:20:20Z" name="Default test" finished-at="2019-08-22T12:20:55Z" duration-ms="34586">
+      <class name="testCase.LoginAndCreateNewCustomer">
+        <test-method is-config="true" signature="init()[pri:0, instance:testCase.LoginAndCreateNewCustomer@14dd7b39]" started-at="2019-08-22T12:20:20Z" name="init" finished-at="2019-08-22T12:20:50Z" duration-ms="30152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testCase.LoginAndCreateNewCustomer@14dd7b39]" started-at="2019-08-22T12:20:50Z" name="beforeMethod" finished-at="2019-08-22T12:20:50Z" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCase.LoginAndCreateNewCustomer.enterValidData()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="enterValidData()[pri:0, instance:testCase.LoginAndCreateNewCustomer@14dd7b39]" started-at="2019-08-22T12:20:50Z" name="enterValidData" finished-at="2019-08-22T12:20:52Z" duration-ms="2039" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Username and Password Entry is in process]]>
+            </line>
+            <line>
+              <![CDATA[Username and Password Entry done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterValidData -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testCase.LoginAndCreateNewCustomer@14dd7b39]" started-at="2019-08-22T12:20:52Z" name="afterMethod" finished-at="2019-08-22T12:20:52Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enterValidData status=SUCCESS method=LoginAndCreateNewCustomer.enterValidData()[pri:0, instance:testCase.LoginAndCreateNewCustomer@14dd7b39] output=Username and Password Entry is in process]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testCase.LoginAndCreateNewCustomer@14dd7b39]" started-at="2019-08-22T12:20:52Z" name="beforeMethod" finished-at="2019-08-22T12:20:52Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCase.LoginAndCreateNewCustomer.createNewCustomer()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="createNewCustomer()[pri:0, instance:testCase.LoginAndCreateNewCustomer@14dd7b39]" started-at="2019-08-22T12:20:52Z" name="createNewCustomer" finished-at="2019-08-22T12:20:55Z" depends-on-methods="testCase.LoginAndCreateNewCustomer.enterValidData" duration-ms="2127" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to New Customer]]>
+            </line>
+            <line>
+              <![CDATA[Add New Customer Page Opened]]>
+            </line>
+            <line>
+              <![CDATA[Entering all valid details and creating new Customer]]>
+            </line>
+            <line>
+              <![CDATA[New Customer Creation Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createNewCustomer -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testCase.LoginAndCreateNewCustomer@14dd7b39]" started-at="2019-08-22T12:20:55Z" name="afterMethod" finished-at="2019-08-22T12:20:55Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createNewCustomer status=SUCCESS method=LoginAndCreateNewCustomer.createNewCustomer()[pri:0, instance:testCase.LoginAndCreateNewCustomer@14dd7b39] output=Navigating to New Customer]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:testCase.LoginAndCreateNewCustomer@14dd7b39]" started-at="2019-08-22T12:20:55Z" name="endTest" finished-at="2019-08-22T12:20:55Z" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- testCase.LoginAndCreateNewCustomer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

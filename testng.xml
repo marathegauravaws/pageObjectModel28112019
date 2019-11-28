@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuiteStagging">
+
+<listeners>
+<!-- <listener class-name="com.test.automation.uiAutomation.customListner.Listener"></listener>  -->
+<listener class-name="customListner.RetryListener"></listener> 
+</listeners>
+
+
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testCase.LoginWithValidCredentials"/>
+      <class name="testCase.LoginAndCreateNewCustomer"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- RegressionSuiteStagging -->

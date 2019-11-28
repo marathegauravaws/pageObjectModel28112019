@@ -1,0 +1,246 @@
+2019-08-22 15:51:08 INFO  TestBase:93 - navigating to :-http://demo.guru99.com/v4/
+2019-08-22 15:51:41 INFO  TestBase:186 - browser closed
+2019-08-22 16:13:41 INFO  TestBase:95 - navigating to :-http://demo.guru99.com/v4/
+2019-08-22 16:13:54 INFO  TestBase:188 - browser closed
+2019-08-22 16:16:32 INFO  TestBase:95 - navigating to :-http://demo.guru99.com/v4/
+2019-08-22 16:16:46 INFO  TestBase:188 - browser closed
+2019-08-22 16:17:53 INFO  TestBase:95 - navigating to :-http://demo.guru99.com/v4/
+2019-08-22 16:18:08 INFO  TestBase:188 - browser closed
+2019-08-22 16:21:36 INFO  TestBase:95 - navigating to :-http://demo.guru99.com/v4/
+2019-08-22 16:21:40 INFO  WebEventListener:243 - Found Element By : By.name: uid
+2019-08-22 16:21:40 INFO  WebEventListener:243 - Found Element By : By.name: password
+2019-08-22 16:21:40 INFO  WebEventListener:243 - Found Element By : By.name: btnLogin
+2019-08-22 16:21:44 INFO  WebEventListener:243 - Clicked on: [[ChromeDriver: chrome on XP (7c7fb979cfef0840f9540de4e19fe335)] -> name: btnLogin]
+2019-08-22 16:21:44 INFO  WebEventListener:243 - Found Element By : By.xpath: //*[@class='menusubnav']/li/a
+2019-08-22 16:21:46 INFO  WebEventListener:243 - Clicked on: [[ChromeDriver: chrome on XP (7c7fb979cfef0840f9540de4e19fe335)] -> xpath: //*[@class='menusubnav']/li/a]
+2019-08-22 16:21:47 INFO  WebEventListener:243 - Found Element By : By.xpath: //input[@name='name']
+2019-08-22 16:21:47 INFO  WebEventListener:243 - Found Element By : By.xpath: //*[@type='radio'][@value='f']
+2019-08-22 16:21:47 INFO  WebEventListener:243 - Clicked on: [[ChromeDriver: chrome on XP (7c7fb979cfef0840f9540de4e19fe335)] -> xpath: //*[@type='radio'][@value='f']]
+2019-08-22 16:21:47 INFO  WebEventListener:243 - Found Element By : By.xpath: //*[@type='date']
+2019-08-22 16:21:47 INFO  WebEventListener:243 - Found Element By : By.xpath: //*[text()='Address']//following::textarea
+2019-08-22 16:21:47 INFO  WebEventListener:243 - Found Element By : By.xpath: //input[@name='city']
+2019-08-22 16:21:47 INFO  WebEventListener:243 - Found Element By : By.xpath: //input[@name='state']
+2019-08-22 16:21:47 INFO  WebEventListener:243 - Found Element By : By.xpath: //input[@name='pinno']
+2019-08-22 16:21:47 INFO  WebEventListener:243 - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-08-22 16:21:47 INFO  WebEventListener:243 - Found Element By : By.xpath: //input[@name='emailid']
+2019-08-22 16:21:48 INFO  WebEventListener:243 - Found Element By : By.xpath: //input[@name='password']
+2019-08-22 16:21:48 INFO  WebEventListener:243 - Found Element By : By.xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]
+2019-08-22 16:21:48 INFO  WebEventListener:243 - Clicked on: [[ChromeDriver: chrome on XP (7c7fb979cfef0840f9540de4e19fe335)] -> xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]]
+2019-08-22 16:21:48 INFO  TestBase:188 - browser closed
+2019-08-22 16:32:19 INFO  TestBase:115 - navigating to :-http://demo.guru99.com/v4/
+2019-08-22 16:32:43 INFO  TestBase:144 - Username and Password Entry is in process
+2019-08-22 16:32:43 INFO  WebEventListener:132 - Found Element By : By.name: uid
+2019-08-22 16:32:44 INFO  WebEventListener:132 - Found Element By : By.name: password
+2019-08-22 16:32:44 INFO  WebEventListener:132 - Found Element By : By.name: btnLogin
+2019-08-22 16:32:46 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (617e20c7eeb159e26837c2a2afe4d1b6)] -> name: btnLogin]
+2019-08-22 16:32:46 INFO  TestBase:144 - Username and Password Entry done
+2019-08-22 16:32:46 INFO  TestBase:144 - Navigating to New Customer
+2019-08-22 16:32:46 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@class='menusubnav']/li/a
+2019-08-22 16:32:49 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (617e20c7eeb159e26837c2a2afe4d1b6)] -> xpath: //*[@class='menusubnav']/li/a]
+2019-08-22 16:32:49 INFO  WebEventListener:132 - Found Element By : By.xpath: .//*[@class='heading3']
+2019-08-22 16:32:49 INFO  TestBase:144 - Add New Customer Page Opened
+2019-08-22 16:32:49 INFO  TestBase:144 - Entering all valid details and creating new Customer
+2019-08-22 16:32:49 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='name']
+2019-08-22 16:32:49 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@type='radio'][@value='f']
+2019-08-22 16:32:49 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (617e20c7eeb159e26837c2a2afe4d1b6)] -> xpath: //*[@type='radio'][@value='f']]
+2019-08-22 16:32:49 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@type='date']
+2019-08-22 16:32:50 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[text()='Address']//following::textarea
+2019-08-22 16:32:50 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='city']
+2019-08-22 16:32:50 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='state']
+2019-08-22 16:32:50 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='pinno']
+2019-08-22 16:32:50 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-08-22 16:32:50 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='emailid']
+2019-08-22 16:32:50 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='password']
+2019-08-22 16:32:50 INFO  WebEventListener:132 - Found Element By : By.xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]
+2019-08-22 16:32:51 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (617e20c7eeb159e26837c2a2afe4d1b6)] -> xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]]
+2019-08-22 16:32:51 INFO  TestBase:144 - New Customer Creation Done
+2019-08-22 16:32:51 INFO  TestBase:209 - browser closed
+2019-08-22 16:34:36 INFO  TestBase:115 - navigating to :-http://demo.guru99.com/v4/
+2019-08-22 16:34:40 INFO  TestBase:144 - Username and Password Entry is in process
+2019-08-22 16:34:40 INFO  WebEventListener:132 - Found Element By : By.name: uid
+2019-08-22 16:34:40 INFO  WebEventListener:132 - Found Element By : By.name: password
+2019-08-22 16:34:40 INFO  WebEventListener:132 - Found Element By : By.name: btnLogin
+2019-08-22 16:34:42 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (869cbde215d2191d93c4587351a8c799)] -> name: btnLogin]
+2019-08-22 16:34:42 INFO  TestBase:144 - Username and Password Entry done
+2019-08-22 16:34:42 INFO  TestBase:144 - Navigating to New Customer
+2019-08-22 16:34:42 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@class='menusubnav']/li/a
+2019-08-22 16:34:43 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (869cbde215d2191d93c4587351a8c799)] -> xpath: //*[@class='menusubnav']/li/a]
+2019-08-22 16:34:44 INFO  WebEventListener:132 - Found Element By : By.xpath: .//*[@class='heading3']
+2019-08-22 16:34:44 INFO  TestBase:144 - Add New Customer Page Opened
+2019-08-22 16:34:44 INFO  TestBase:144 - Entering all valid details and creating new Customer
+2019-08-22 16:34:44 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='name']
+2019-08-22 16:34:44 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@type='radio'][@value='f']
+2019-08-22 16:34:44 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (869cbde215d2191d93c4587351a8c799)] -> xpath: //*[@type='radio'][@value='f']]
+2019-08-22 16:34:44 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@type='date']
+2019-08-22 16:34:44 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[text()='Address']//following::textarea
+2019-08-22 16:34:44 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='city']
+2019-08-22 16:34:44 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='state']
+2019-08-22 16:34:44 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='pinno']
+2019-08-22 16:34:44 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-08-22 16:34:45 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='emailid']
+2019-08-22 16:34:45 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='password']
+2019-08-22 16:34:45 INFO  WebEventListener:132 - Found Element By : By.xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]
+2019-08-22 16:34:45 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (869cbde215d2191d93c4587351a8c799)] -> xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]]
+2019-08-22 16:34:45 INFO  TestBase:144 - New Customer Creation Done
+2019-08-22 16:34:45 INFO  TestBase:209 - browser closed
+2019-08-22 16:37:08 INFO  TestBase:115 - navigating to :-http://demo.guru99.com/v4/
+2019-08-22 16:37:13 INFO  TestBase:144 - Username and Password Entry is in process
+2019-08-22 16:37:13 INFO  WebEventListener:132 - Found Element By : By.name: uid
+2019-08-22 16:37:13 INFO  WebEventListener:132 - Found Element By : By.name: password
+2019-08-22 16:37:13 INFO  WebEventListener:132 - Found Element By : By.name: btnLogin
+2019-08-22 16:37:16 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (f6e702bba827ef16f4552bafda730dfc)] -> name: btnLogin]
+2019-08-22 16:37:16 INFO  TestBase:144 - Username and Password Entry done
+2019-08-22 16:37:16 INFO  TestBase:144 - Navigating to New Customer
+2019-08-22 16:37:17 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@class='menusubnav']/li/a
+2019-08-22 16:37:29 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (f6e702bba827ef16f4552bafda730dfc)] -> xpath: //*[@class='menusubnav']/li/a]
+2019-08-22 16:37:29 INFO  WebEventListener:132 - Found Element By : By.xpath: .//*[@class='heading3']
+2019-08-22 16:37:29 INFO  TestBase:144 - Add New Customer Page Opened
+2019-08-22 16:37:29 INFO  TestBase:144 - Entering all valid details and creating new Customer
+2019-08-22 16:37:29 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='name']
+2019-08-22 16:37:30 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@type='radio'][@value='f']
+2019-08-22 16:37:30 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (f6e702bba827ef16f4552bafda730dfc)] -> xpath: //*[@type='radio'][@value='f']]
+2019-08-22 16:37:30 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@type='date']
+2019-08-22 16:37:30 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[text()='Address']//following::textarea
+2019-08-22 16:37:43 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='city']
+2019-08-22 16:37:43 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='state']
+2019-08-22 16:37:43 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='pinno']
+2019-08-22 16:37:44 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-08-22 16:37:44 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='emailid']
+2019-08-22 16:37:44 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='password']
+2019-08-22 16:37:44 INFO  WebEventListener:132 - Found Element By : By.xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]
+2019-08-22 16:37:44 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (f6e702bba827ef16f4552bafda730dfc)] -> xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]]
+2019-08-22 16:37:44 INFO  TestBase:144 - New Customer Creation Done
+2019-08-22 16:37:44 INFO  TestBase:209 - browser closed
+2019-08-22 17:02:04 INFO  TestBase:115 - navigating to :-http://demo.guru99.com/v4/
+2019-08-22 17:02:45 INFO  WebEventListener:132 - Found Element By : By.name: uid
+2019-08-22 17:02:52 INFO  WebEventListener:132 - Found Element By : By.name: password
+2019-08-22 17:02:52 INFO  WebEventListener:132 - Found Element By : By.name: btnLogin
+2019-08-22 17:02:56 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (60c57af54edca10f79b629c7c90175e0)] -> name: btnLogin]
+2019-08-22 17:02:56 INFO  TestBase:209 - browser closed
+2019-08-22 17:03:05 INFO  TestBase:115 - navigating to :-http://demo.guru99.com/v4/
+2019-08-22 17:03:58 INFO  WebEventListener:132 - Exception occured: org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=76.0.3809.100)
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'YP1009711DT', ip: '10.8.102.10', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\GAURAV~1.MAR\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:16632}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 224ac8ac4a972b98c2f4235e13ffc785
+2019-08-22 17:03:59 INFO  TestBase:209 - browser closed
+2019-08-22 17:08:12 INFO  TestBase:115 - navigating to :-http://demo.guru99.com/v4/
+2019-08-22 17:08:17 INFO  WebEventListener:132 - Found Element By : By.name: uid
+2019-08-22 17:08:17 INFO  WebEventListener:132 - Found Element By : By.name: password
+2019-08-22 17:08:17 INFO  WebEventListener:132 - Found Element By : By.name: btnLogin
+2019-08-22 17:08:19 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (d6d8442a901c6b271e53113789a0c4dd)] -> name: btnLogin]
+2019-08-22 17:08:19 INFO  TestBase:209 - browser closed
+2019-08-22 17:08:22 INFO  TestBase:115 - navigating to :-http://demo.guru99.com/v4/
+2019-08-22 17:08:27 INFO  TestBase:144 - Username and Password Entry is in process
+2019-08-22 17:08:27 INFO  WebEventListener:132 - Found Element By : By.name: uid
+2019-08-22 17:08:27 INFO  WebEventListener:132 - Found Element By : By.name: password
+2019-08-22 17:08:27 INFO  WebEventListener:132 - Found Element By : By.name: btnLogin
+2019-08-22 17:08:28 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (64f1a9a204c3673335b0d1350d7faf1d)] -> name: btnLogin]
+2019-08-22 17:08:28 INFO  TestBase:144 - Username and Password Entry done
+2019-08-22 17:08:28 INFO  TestBase:144 - Navigating to New Customer
+2019-08-22 17:08:28 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@class='menusubnav']/li/a
+2019-08-22 17:08:29 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (64f1a9a204c3673335b0d1350d7faf1d)] -> xpath: //*[@class='menusubnav']/li/a]
+2019-08-22 17:08:29 INFO  WebEventListener:132 - Found Element By : By.xpath: .//*[@class='heading3']
+2019-08-22 17:08:29 INFO  TestBase:144 - Add New Customer Page Opened
+2019-08-22 17:08:29 INFO  TestBase:144 - Entering all valid details and creating new Customer
+2019-08-22 17:08:30 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='name']
+2019-08-22 17:08:30 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@type='radio'][@value='f']
+2019-08-22 17:08:31 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (64f1a9a204c3673335b0d1350d7faf1d)] -> xpath: //*[@type='radio'][@value='f']]
+2019-08-22 17:08:31 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@type='date']
+2019-08-22 17:08:31 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[text()='Address']//following::textarea
+2019-08-22 17:08:31 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='city']
+2019-08-22 17:08:31 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='state']
+2019-08-22 17:08:31 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='pinno']
+2019-08-22 17:08:31 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-08-22 17:08:31 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='emailid']
+2019-08-22 17:08:31 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='password']
+2019-08-22 17:08:31 INFO  WebEventListener:132 - Found Element By : By.xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]
+2019-08-22 17:08:31 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (64f1a9a204c3673335b0d1350d7faf1d)] -> xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]]
+2019-08-22 17:08:31 INFO  TestBase:144 - New Customer Creation Done
+2019-08-22 17:08:31 INFO  TestBase:209 - browser closed
+2019-08-22 17:35:42 INFO  TestBase:115 - navigating to :-http://demo.guru99.com/v4/
+2019-08-22 17:36:07 INFO  TestBase:144 - Username and Password Entry is in process
+2019-08-22 17:36:07 INFO  WebEventListener:132 - Found Element By : By.name: uid
+2019-08-22 17:36:07 INFO  WebEventListener:132 - Found Element By : By.name: password
+2019-08-22 17:36:07 INFO  WebEventListener:132 - Found Element By : By.name: btnLogin
+2019-08-22 17:36:09 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (7bfd53757624a4d2405fa6d58f9a9ec4)] -> name: btnLogin]
+2019-08-22 17:36:09 INFO  TestBase:144 - Username and Password Entry done
+2019-08-22 17:36:09 INFO  TestBase:144 - Navigating to New Customer
+2019-08-22 17:36:09 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@class='menusubnav']/li/a
+2019-08-22 17:36:10 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (7bfd53757624a4d2405fa6d58f9a9ec4)] -> xpath: //*[@class='menusubnav']/li/a]
+2019-08-22 17:36:10 INFO  WebEventListener:132 - Found Element By : By.xpath: .//*[@class='heading3']
+2019-08-22 17:36:10 INFO  TestBase:144 - Add New Customer Page Opened
+2019-08-22 17:36:10 INFO  TestBase:144 - Entering all valid details and creating new Customer
+2019-08-22 17:36:11 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='name']
+2019-08-22 17:36:11 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@type='radio'][@value='f']
+2019-08-22 17:36:11 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (7bfd53757624a4d2405fa6d58f9a9ec4)] -> xpath: //*[@type='radio'][@value='f']]
+2019-08-22 17:36:11 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@type='date']
+2019-08-22 17:36:11 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[text()='Address']//following::textarea
+2019-08-22 17:36:11 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='city']
+2019-08-22 17:36:11 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='state']
+2019-08-22 17:36:11 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='pinno']
+2019-08-22 17:36:11 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-08-22 17:36:11 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='emailid']
+2019-08-22 17:36:11 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='password']
+2019-08-22 17:36:11 INFO  WebEventListener:132 - Found Element By : By.xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]
+2019-08-22 17:36:12 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (7bfd53757624a4d2405fa6d58f9a9ec4)] -> xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]]
+2019-08-22 17:36:12 INFO  TestBase:144 - New Customer Creation Done
+2019-08-22 17:36:12 INFO  TestBase:211 - browser closed
+2019-08-22 17:46:38 INFO  TestBase:116 - navigating to :-http://demo.guru99.com/v4/
+2019-08-22 17:47:05 INFO  TestBase:145 - Username and Password Entry is in process
+2019-08-22 17:47:05 INFO  WebEventListener:132 - Found Element By : By.name: uid
+2019-08-22 17:47:07 INFO  WebEventListener:132 - Found Element By : By.name: password
+2019-08-22 17:47:07 INFO  WebEventListener:132 - Found Element By : By.name: btnLogin
+2019-08-22 17:47:10 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (91c48018e42032b0c805f43c506c47e7)] -> name: btnLogin]
+2019-08-22 17:47:10 INFO  TestBase:145 - Username and Password Entry done
+2019-08-22 17:47:10 INFO  TestBase:145 - Navigating to New Customer
+2019-08-22 17:47:10 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@class='menusubnav']/li/a
+2019-08-22 17:47:12 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (91c48018e42032b0c805f43c506c47e7)] -> xpath: //*[@class='menusubnav']/li/a]
+2019-08-22 17:47:12 INFO  WebEventListener:132 - Found Element By : By.xpath: .//*[@class='heading3']
+2019-08-22 17:47:12 INFO  TestBase:145 - Add New Customer Page Opened
+2019-08-22 17:47:12 INFO  TestBase:145 - Entering all valid details and creating new Customer
+2019-08-22 17:47:13 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='name']
+2019-08-22 17:47:13 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@type='radio'][@value='f']
+2019-08-22 17:47:13 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (91c48018e42032b0c805f43c506c47e7)] -> xpath: //*[@type='radio'][@value='f']]
+2019-08-22 17:47:13 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@type='date']
+2019-08-22 17:47:13 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[text()='Address']//following::textarea
+2019-08-22 17:47:13 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='city']
+2019-08-22 17:47:13 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='state']
+2019-08-22 17:47:13 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='pinno']
+2019-08-22 17:47:13 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-08-22 17:47:14 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='emailid']
+2019-08-22 17:47:14 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='password']
+2019-08-22 17:47:14 INFO  WebEventListener:132 - Found Element By : By.xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]
+2019-08-22 17:47:14 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (91c48018e42032b0c805f43c506c47e7)] -> xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]]
+2019-08-22 17:47:14 INFO  TestBase:145 - New Customer Creation Done
+2019-08-22 17:47:14 INFO  TestBase:214 - browser closed
+2019-08-22 17:50:26 INFO  TestBase:116 - navigating to :-http://demo.guru99.com/v4/
+2019-08-22 17:50:50 INFO  TestBase:145 - Username and Password Entry is in process
+2019-08-22 17:50:50 INFO  WebEventListener:132 - Found Element By : By.name: uid
+2019-08-22 17:50:51 INFO  WebEventListener:132 - Found Element By : By.name: password
+2019-08-22 17:50:51 INFO  WebEventListener:132 - Found Element By : By.name: btnLogin
+2019-08-22 17:50:52 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (162486e906460f62b60fdb183c8ee499)] -> name: btnLogin]
+2019-08-22 17:50:52 INFO  TestBase:145 - Username and Password Entry done
+2019-08-22 17:50:52 INFO  TestBase:145 - Navigating to New Customer
+2019-08-22 17:50:52 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@class='menusubnav']/li/a
+2019-08-22 17:50:53 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (162486e906460f62b60fdb183c8ee499)] -> xpath: //*[@class='menusubnav']/li/a]
+2019-08-22 17:50:53 INFO  WebEventListener:132 - Found Element By : By.xpath: .//*[@class='heading3']
+2019-08-22 17:50:53 INFO  TestBase:145 - Add New Customer Page Opened
+2019-08-22 17:50:53 INFO  TestBase:145 - Entering all valid details and creating new Customer
+2019-08-22 17:50:54 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='name']
+2019-08-22 17:50:54 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@type='radio'][@value='f']
+2019-08-22 17:50:54 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (162486e906460f62b60fdb183c8ee499)] -> xpath: //*[@type='radio'][@value='f']]
+2019-08-22 17:50:54 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[@type='date']
+2019-08-22 17:50:54 INFO  WebEventListener:132 - Found Element By : By.xpath: //*[text()='Address']//following::textarea
+2019-08-22 17:50:54 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='city']
+2019-08-22 17:50:54 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='state']
+2019-08-22 17:50:54 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='pinno']
+2019-08-22 17:50:54 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-08-22 17:50:54 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='emailid']
+2019-08-22 17:50:54 INFO  WebEventListener:132 - Found Element By : By.xpath: //input[@name='password']
+2019-08-22 17:50:54 INFO  WebEventListener:132 - Found Element By : By.xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]
+2019-08-22 17:50:55 INFO  WebEventListener:132 - Clicked on: [[ChromeDriver: chrome on XP (162486e906460f62b60fdb183c8ee499)] -> xpath: /html/body/table/tbody/tr/td/table/tbody/tr[14]/td[2]/input[1]]
+2019-08-22 17:50:55 INFO  TestBase:145 - New Customer Creation Done
+2019-08-22 17:50:55 INFO  TestBase:214 - browser closed
